@@ -1,7 +1,9 @@
-### Olá! Eu sou o João Victor 👋
+### Olá, Seja Bem-Vindo(a)! 👋
 
-- 🔭 Atualmente trabalho com Mobile
-- 🌱 Estudando React Native e Typescript
+Me chamo João Victor.
+
+- 💼 Atualmente trabalho com Mobile
+- 📚 Estudando React Native e Typescript
 - 😄 Pronomes: ele/dele
 
 <div align="center">
